@@ -24,15 +24,17 @@ article:
 
 # Navigation bar menu links.
 menu:
-  Archives: /archives
-  # Lifestyle: /categories/LifeStyle
-  # Music: /categories/Music
-  # Technology: /categories/Technology
+  衣: /categories/clothing
+  食: /categories/food
+  住: /categories/housing
+  旅: /categories/trip
+  他: /categories/other
+  一覧: /archives
   # About: /about
 
 # Search plugin settings.
-search:
-  type: insight
+# search:
+#   type: insight
 
 # Share plugin settings.
 # share:
